@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Full-stack Developer with 2+ years of experience working in software development. I have extensive knowledge of HTML, CSS, TypeScript, Angular and NestJS. I am committed to my professional goals and I have completed a 3-year degree as a Computer Technician, currently studying Systems Engineering at the Peruvian University of Applied Sciences. I am interested in applying my skills in innovative industries.
+I am a Full-stack Developer with 3+ years of experience working in software development. I have extensive knowledge of HTML, CSS, TypeScript, Angular and NestJS. I am committed to my professional goals and I have completed a 3-year degree as a Computer Technician, currently studying Systems Engineering at the Peruvian University of Applied Sciences. I am interested in applying my skills in innovative industries.
 
 * 🌍  I'm based in Peru
 * ✉️  You can contact me at [raydaviddelacruz@gmail.com](mailto:raydaviddelacruz@gmail.com)
-* 🚀  I'm currently working on [Footloose](http://footloose.pe)
+* 🚀  I'm currently working on [Qbank](https://qompa.io)
 * 🧠  I'm learning GraphQL, Azure and AWS.
 
 ### Skills
