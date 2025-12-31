@@ -1,15 +1,38 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ray
 ===========================================================================================================================
 
-Full Stack Developer
---------------------
+### Senior Backend Developer | NestJS & Cloud Architecture Specialist
 
-I am a Full-stack Developer with 3+ years of experience working in software development. I have extensive knowledge of HTML, CSS, TypeScript, Angular and NestJS. I am committed to my professional goals and I have completed a 3-year degree as a Computer Technician, currently studying Systems Engineering at the Peruvian University of Applied Sciences. I am interested in applying my skills in innovative industries.
+I am a **Senior Backend-focused Full-stack Developer** with **4+ years of experience** building scalable, high-performance systems. Currently, I lead backend architectures at **Footloose** (Retail) and contribute to **Qompa** (Fintech), focusing on microservices, event-driven systems, and AI integration.
 
-* 🌍  I'm based in Peru
-* ✉️  You can contact me at [raydaviddelacruz@gmail.com](mailto:raydaviddelacruz@gmail.com)
-* 🚀  I'm currently working on [Qbank](https://qompa.io)
-* 🧠  I'm learning GraphQL, Azure and AWS.
+---
+
+### 🚀 Current Focus
+* **AI Innovations:** Building a **Semantic Search SaaS** using RAG (Retrieval-Augmented Generation) and Vector Databases to revolutionize e-commerce search.
+* **Scalability:** Designing resilient backend infrastructures with **NestJS**, **Node.js**, and **AWS**.
+
+---
+
+### 🛠️ Tech Stack
+* **Languages:** TypeScript, JavaScript.
+* **Backend:** NestJS, Node.js, Express.
+* **Databases:** PostgreSQL, MongoDB, MSSQL, Redis, Pinecone (Vector DB).
+* **Infrastructure:** AWS (Lambda, S3), Docker, NATS, Microservices, VPS.
+* **Frontend:** Angular.
+
+---
+
+### 📊 Stats & Contact
+* 🌍 Based in **Peru** (available for global remote roles).
+* ✉️ [raydaviddelacruz@gmail.com](mailto:raydaviddelacruz@gmail.com)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/ray-david-pacuri-de-la-cruz/)
+* 🧠 Currently deepening knowledge in **LLM Orchestration, OpenAI API, and System Design.**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RayDLC&show_icons=true&theme=tokyonight" alt="Ray's GitHub Stats" />
+</p>
 
 ### Skills
 
